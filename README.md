@@ -1,1 +1,1 @@
-# Just-Nuxt
+# Nuxt course 2022
