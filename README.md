@@ -1,7 +1,5 @@
 
 
-This template should help get you started developing with Vue 3 in Vite.
-
 <div id="top"></div>
 
 <h1 align="center"><strong>Nuxt-3 Iphone outlet </h1>
